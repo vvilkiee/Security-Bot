@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: '1282346306697826405'
+  TOKEN: ''
+  PREFIX: '?>'
+  EMBED_COLOR: '#ff0000'
+  OWNERS: ['835079992257806366']
+  MONGO: ''
+links:
+  INVITE: 'https://spvrk.gg'
+  SUPPORT: 'https://discord.gg/hb6agxCnEX'
+  VOTE: 'https://top.gg/bot/0000000/vote'
